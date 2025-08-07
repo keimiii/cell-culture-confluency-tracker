@@ -224,6 +224,5 @@ if __name__ == '__main__':
     print("  POST /api/microplates")
     print("  GET  /api/microplates/<id>/measurements/latest")
     print("  POST /api/microplates/<id>/measurements")
-    print("  GET  /api/microplates/<id>/measurements/well/<row>/<column>")
-    
+
     app.run(host='0.0.0.0', port=port, debug=debug)

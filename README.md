@@ -101,3 +101,6 @@ measurements: id, microplate_id, row, column, confluency_percentage, timestamp
 ![screenshot_microplate.png](screenshots/screenshot_microplate.png)
 ### Measurement Form
 ![screenshot_form.png](screenshots/screenshot_form.png)
+
+## AI Disclaimer
+Claude AI was used to develop the boilerplate for the application, and further refining was performed on my end.
